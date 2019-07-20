@@ -3,4 +3,8 @@
 
 EASY 
 1. reverse integer
-2. 
+2. valid parantheses
+
+
+
+MEDIUM
